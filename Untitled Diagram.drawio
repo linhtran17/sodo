@@ -1,21 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
-  <diagram name="Page-1" id="zFLus_jdpnkVGk_Gd-1q">
-    <mxGraphModel dx="884" dy="1499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Page-1" id="9dtw_YVFc1t5sriNN40-">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ARE_1-Zvm_cil5ujiEe5-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-420" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ARE_1-Zvm_cil5ujiEe5-6" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-416" width="50" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="ARE_1-Zvm_cil5ujiEe5-7" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-406" width="50" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="ARE_1-Zvm_cil5ujiEe5-8" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-406" width="60" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
